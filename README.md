@@ -1,0 +1,1 @@
+The project AUTOMOBILE SChema has the different relations mapped in schema. The files for Create Tables and Insert Tables are attached.
